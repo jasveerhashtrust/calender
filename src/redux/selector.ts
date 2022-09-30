@@ -1,0 +1,1 @@
+export const getstate = (state:any )=> state.changemonthreducer.month;
